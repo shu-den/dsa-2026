@@ -1,0 +1,1 @@
+import{o,e as t,i as s}from"./modules/vue-B5LQN188.js";import{u as r}from"./slidev/context-CYoiTeAt.js";const i={class:"slidev-layout layout-section-divider"},d={__name:"section-divider",setup(a){return r(),(e,n)=>(o(),t("div",i,[s(e.$slots,"default")]))}};export{d as _};
