@@ -1,0 +1,1 @@
+import{o as t,e as o,i as s}from"./modules/vue-CmL-H8BW.js";import{u as a}from"./slidev/context-D8_vnREc.js";const r={class:"slidev-layout layout-interactive"},_={__name:"interactive",setup(i){return a(),(e,n)=>(t(),o("div",r,[s(e.$slots,"default")]))}};export{_};
