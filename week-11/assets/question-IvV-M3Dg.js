@@ -1,0 +1,1 @@
+import{o,e as t,i as s}from"./modules/vue-CCeyAUKo.js";import{u as a}from"./slidev/context-BGLCh0XU.js";const r={class:"slidev-layout layout-question"},_={__name:"question",setup(n){return a(),(e,l)=>(o(),t("div",r,[s(e.$slots,"default")]))}};export{_};
