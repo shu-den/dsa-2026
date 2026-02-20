@@ -1,0 +1,1 @@
+import{o,e as a,g as t,i as s}from"./modules/vue-tYZCW_lj.js";import{u as i}from"./slidev/context-C274-Irr.js";const r={class:"slidev-layout layout-interactive"},n={class:"interactive-container"},u={__name:"interactive",setup(l){return i(),(e,c)=>(o(),a("div",r,[t("h2",null,[s(e.$slots,"title")]),t("div",n,[s(e.$slots,"default")])]))}};export{u as _};
